@@ -54,7 +54,7 @@ def assign_character_for_nodes(maze_map, current_node, prev_node):
     raise NotImplementedError
 
 
-def write_output(path):
+def write_to_file(path):
     """Function to write output to console and a txt file.
     Please ensure that it should be possible to visualize each and every
     step of the tree traversal algorithm in the map in the console.

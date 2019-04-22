@@ -43,7 +43,7 @@ if __name__ == '__main__':
 
     maze_map =[]
     working_directory = os.getcwd()
-    file_path = os.path.join(working_directory, '/maps/map3.txt')
+    file_path = os.path.join(working_directory, 'maps/map3.txt')
 
     with open(file_path) as f:
         maze_map = f.readlines()
