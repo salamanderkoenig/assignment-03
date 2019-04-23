@@ -35,6 +35,8 @@ def depth_first_search(maze_map, start_pos, goal_pos):
     start = start_pos[0]
     goal = goal_pos
     queue = deque([("", start)])
+    
+    # Fill in your DFS algorithm here
 
     return
 
