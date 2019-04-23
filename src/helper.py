@@ -56,7 +56,7 @@ def assign_character_for_nodes(maze_map, current_node, prev_node):
 
 def write_to_file(path):
     """Function to write output to console and a txt file.
-    Please ensure that it should be possible to visualize each and every
+    Please ensure that it should ALSO be possible to visualize each and every
     step of the tree traversal algorithm in the map in the console.
     This enables understanding towards the working of your
     tree traversal algorithm as to how it reaches the goals.
