@@ -6,6 +6,7 @@ Please read the PDF file in this repository to get an idea of the problem statem
 * Please use .py files provided to code your solutions.
 * A minimalistic template is provided so that you can organize your ideas and put them into the appropriate functions.
 * Please fill out the docstrings (function args and return value type and description) after implementation.
+* Please fill out the requirements.txt if you are using any third party python libraries (Eg: numpy).
 * Please add any extra functions if needed in the helper.py.
 * Do not clutter your code and try to be more Pythonic in coding.
 * Kindly use meaningful identifiers for variable/function/class names. Also add comments to help us easily evaluate your code.
