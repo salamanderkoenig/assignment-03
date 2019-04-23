@@ -1,6 +1,8 @@
+# <YOUR_FIRST_NAME><YOUR_LAST_NAME>
+
 # Assignment 3
 In this Assignment you will be implementing Breadth First Search, Depth First Search and Iterative Deepening Depth First Search.
-Please read the PDF file in this repository to get an idea of the problem statement.
+Please change the <YOUR_FIRST_NAME> and <YOUR_LAST_NAME> tags of this file accordingly and please read the PDF file in this repository to get an idea of the problem statement.
 
 ## Coding Guidelines
 * Please use .py files provided to code your solutions.
@@ -25,7 +27,7 @@ git add <some-file>
 ```
 git commit -m "<give your commit message here within the double quotes>"
 ```
-* It is good practice to often check the status of your staged or committed file using 
+* It is good practice to often check the status of your staged or committed file using
 ```
 git status
 ```
