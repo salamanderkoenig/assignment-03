@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/hbrs-ai/assignment-03.svg?branch=master)](https://travis-ci.com/hbrs-ai/assignment-03)
 # <YOUR_FIRST_NAME><YOUR_LAST_NAME>
 
 # Assignment 3
@@ -5,10 +6,11 @@ In this Assignment you will be implementing Breadth First Search, Depth First Se
 Please change the <YOUR_FIRST_NAME> and <YOUR_LAST_NAME> tags of this file accordingly and please read the PDF file in this repository to get an idea of the problem statement.
 
 ## Coding Guidelines
-* Please use .py files provided to code your solutions.
+* Please use .py files provided to code your solutions in **python 3.5 or above**.
 * A minimalistic template is provided so that you can organize your ideas and put them into the appropriate functions.
-* Please fill out the docstrings (function args and return value type and description) after implementation.
-* Please fill out the requirements.txt if you are using any third party python libraries (Eg: numpy).
+* Please **fill out the docstrings** (function args and return value type and description) after implementation.
+* Please **fill out the requirements.txt** if you are using any third party python libraries (Eg: numpy).
+* Please add **travis build status label** in markdown format at the top of the README.md. Follow the instructions https://docs.travis-ci.com/user/status-images/
 * Please add any extra functions if needed in the helper.py.
 * Do not clutter your code and try to be more Pythonic in coding.
 * Kindly use meaningful identifiers for variable/function/class names. Also add comments to help us easily evaluate your code.
