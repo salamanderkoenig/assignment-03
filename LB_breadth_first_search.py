@@ -10,7 +10,7 @@ import os
 import time
 import numpy as np
 from collections import deque
-from helper import maze_map_to_tree, write_to_file, assign_character_for_nodes,findPfad
+from LB_helper import maze_map_to_tree, write_to_file, assign_character_for_nodes,findPfad
 #from anytree import Node, RenderTree
 from tree import Tree
 
